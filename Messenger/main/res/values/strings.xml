@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Messenger</string>
+    <string name="app_name1">Message Sender</string>
+    <string name="app_name2">Message Receiver</string>
+    <string name="intent_key_001">intent_text_001</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
